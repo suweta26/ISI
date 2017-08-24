@@ -1,0 +1,22 @@
+20170306 
+Scientists develop AI which defeated professional poker players 
+6-3-2017 
+DeepStack extends the ability to think about each situation during play to imperfect information games using a technique called continual re-solving.( Image for representation, Source: Pixabay) DeepStack extends the ability to think about each situation during play to imperfect information games using a technique called continual re-solving.( Image for representation, Source: Pixabay)
+
+A team of scientists has developed an artificial intelligence system called DeepStack that recently defeated professional poker players.
+
+The team of computing scientists from University of Alberta’s Computer Poker Research Group, including researchers from Charles University in Prague and Czech Technical University, said DeepStack bridges the gap between approaches used for games of perfect information with those used for imperfect information games.
+
+Watch all our videos from Express Technology
+
+“Poker has been a longstanding challenge in artificial intelligence,” said Michael Bowling from the University of Alberta, Canada, in the paper published in the journal Science. It is the quintessential game of imperfect information in the sense that the players don’t have the same information or share the same perspective while they are playing,” Bowling added.
+
+Imperfect information games are a general mathematical model that describes how decision-makers interact. Artificial intelligence research has a storied history of using parlour games to study these models, but attention has been focused primarily on perfect information games.
+
+“We need new AI techniques that can handle cases where decision-makers have different perspectives,” Bowling noted. DeepStack extends the ability to think about each situation during play — which has been famously successful in games like checkers, chess, and Go — to imperfect information games using a technique called continual re-solving.
+
+Also Read: AI programme named Libratus beats 4 professional human players in poker marathon
+
+This allows DeepStack to determine the correct strategy for a particular poker situation without thinking about the entire game by using its “intuition” to evaluate how the game might play out in the near future.We train our system to learn the value of situations,” Bowling said.
+
+According to him, each situation itself is a mini poker game. Instead of solving one big poker game, it solves millions of these little poker games, each one helping the system to refine its intuition of how the game of poker works. 

@@ -1,0 +1,16 @@
+20170316 
+New extension may improve inflight WiFi: Researchers 
+16-3-2017 
+Using a tool called WiFly, the team tested the internet connection speeds on a number of flights. Using a tool called WiFly, the team tested the internet connection speeds on a number of flights.
+
+In some good news for air travellers, scientists have developed an extension for the Google Chrome browser that drastically improves web browsing speeds at 30,000 feet. The extension called ScaleUp drew a website page four times faster, saving 60 seconds, researchers from Northwestern University in the US said. That would add up quickly during an average web browsing session, they said.
+
+A website is designed, if the fonts are not there, to render the page anyway and still look presentable, so ScaleUp just drops the font-load request, and the website adjusts. ScaleUp also increases the font size a tiny bit, which simplifies the load even further by pushing other objects down the page.
+
+Using a tool called WiFly, the team tested the internet connection speeds on a number of flights. Despite the premium that travellers pay for the privilege, the results were bad. “Travellers are paying a lot of money and getting modem-like performance,” said Fabian Bustamante from Northwestern University.
+
+Much like a responsive website adjusts the layout to our desktop or tablet or phone, ScaleUp adapts the content by increasing the size of the images, which pushes content down the page and reduces the number of objects the browser has to handle at any one time.
+
+“It was not something we expected to turn out as well as it did,” said James Newman, a doctoral candidate working with Bustamante on ScaleUp. “The improvements we are seeing are better than what you would normally see,” said Newman. “We need to better understand how else we can improve the web experience regardless of the conditions,” Bustamante added.
+
+For all the latest Tech News, download Indian Express App now 

@@ -1,0 +1,42 @@
+20170312 
+What Uber plans to achieve with its self-driving cars and Otto trucks 
+12-3-2017 
+Matt Sweeney who heads product as Uber’s Advanced Technology Group with the Otto self-drving truck in San Francisco. (Photo: Nandagopal Rajan) Matt Sweeney who heads product as Uber’s Advanced Technology Group with the Otto self-drving truck in San Francisco. (Photo: Nandagopal Rajan)
+
+It is a dramatic vision. A world where the number of cars has been reduced by 90 per cent thanks to self-driving vehicles that are also shared to scale. It is Uber’s vision for automated vehicles, which its CEO Travis Kalanick says is “existential” for the ride-hailing company’s future. But there are many visions at play here, many technologies and many platforms. In the US alone, there are at least 23 companies — including Tesla, Google and Volkswagen — that have registered in autonomous vehicle programmes across the country.
+
+Driverless cars are not purely about technological progression. There is sound economics behind it too. In fact, on an average cars sit idle for 95 per cent of the time and considering that the world has 1,200,000,000 cars this is a mind boggling level of inefficiency. Also, cars amount for 22 per cent of all emissions globally, so there is a strong environmental reason in being able to reduce their numbers. Another small detail, is that the world has more parking space than cars. As the number of cars go up there is a huge capital cost incurred in increasing the parking slots available. Reducing the number of cars helps cut this investment in the long run.
+
+Watch all our videos from Express Technology
+
+Experimental self-driving cars appeared on roads as early as 1984, but it is only in the past few years that commercial trials have begun. Mercedes Benz, one of the first players in the space, showcased its concept car the F015 at the Consumer Electronics Show in Las Vegas in 2015. Everyone has a different take on the technology, but in the end the idea is to make the car intelligent and independent enough to be aware of its surroundings and take decision based on that.
+
+Interestingly, Uber’s dream of bringing “reliable transportation to everyone, everywhere” has extended itself to self-driving trucks — going beyond people to things. Last October, a self-driving truck from Otto, a San Francisco startup owned by Uber, made a delivery of a consignment of Budweiser beer in Colorado. Trucking extends their vision of moving everyone, everywhere to also moving things around, explains Matt Sweeney who heads product as Uber’s Advanced Technology Group. “The truck and the passenger vehicles share software and hardware components and this helps us work on different aspects of the self-driving problem at the same time,” he adds. However, both have different scope. The passenger vehicles are for urban environments where Uber has its focus on ride-sharing, while the trucks will be for high-speed highways where the constraints are different.
+
+The Uber self-driving car has been developed in collaboration with Volvo. (Graphic: Uber) The Uber self-driving car has been developed in collaboration with Volvo. (Graphic: Uber)
+
+This week, Uber finally got a permit from the California Department of Motor Vehicles to test two self-driving Volvo SUVs on public roads, though it will need to have backup drivers behind the wheel in case the prototype cars malfunction. Uber’s self-driving cars have been running test drives in other parts of the US too.
+
+The Otto self-driving truck in San Francisco. (Photo: Nandagopal Rajan) The Otto self-driving truck in San Francisco. (Photo: Nandagopal Rajan)
+
+The Otto truck comes with a rig of radars, laser scanners and stereo cameras that give the computers inside a live 360-degree vision of its environment with high dynamic range, high resolution and high colour information imagery. But this kind of data means the truck, as well as the car, have a huge computing task to perform. “Almost as big as a small data centre,” as Sweeney put it. While he did not give detailed specifications of the computing cluster inside, we could see a liquid coolant as part of the rig.
+
+Interestingly, Otto is being sued by Google’s Waymo self-driving car unit which claims it stole the company’s proprietary design for its laser-based radar system. Otto co-founder Anthony Levandowski is a former Waymo employee.
+
+Sweeney said that while they have packed in as many cellphone radios as possible inside the truck, the bandwidth limitations are still very real as there is gigabytes of data coming in every minute.
+
+“There is no tech that can let us send all that data to the cloud real time and hence a lot of the computing has to be done in the vehicle itself,” Sweeney told IndianExpress.com. He said there will be all effort to use as much of the infinite computing that is available on the cloud, but it is a bandwidth constraint. “A lot of the tech is based on prior mapping, but in subsequent runs we see differences that has come about in the area and pay attention on those objects that are different.”
+
+The Otto self-driving truck hasa a bunch of radars and sensors up front and a computer console inside. (Photo: Nandagopal Rajan) The Otto self-driving truck hasa a bunch of radars and sensors up front and a computer console inside. (Photo: Nandagopal Rajan)
+
+It is no easy drive and there are major challenges on the way. Sweeney calls it an “enormous technical endeavour” which the teams in the San Francisco and Pittsburg are working on. “Uber tech is different because we are trying to make this on top of the ride sharing network that we already have,” he added. There is the regulatory challenge too and since this is something really new every state is figuring out what to do. So letting an automated truck drive free on the roads is still not that easy.
+
+But in a world where there will be multiple self-driving cars, working on different platforms, how important will it be for them to talk to each other. “We don’t depend on it. We need to see and interact with vehicles, but there is no guarantee we will have that technology. So we are approaching it with the assumption it won’t exist,” said Sweeney, adding that whenever that capability emerges they will be “happy consumers” of it.
+
+But can self-driving cars look beyond the regulated freeways of US and Europe to the chaos that is the roads of India? Uber’s ambition, and business goal, is to take this technology everywhere. However, Sweeney accepts that this present a slew of new challenges, with different elements and volumes in these scenarios. “Those are situations we think we will be able to tackle, but those are not the first places we will go,” he said, adding that they will look for opportunities where they can deploy this tech safely.
+
+But why trucks you might wonder? While you might not have read about self-driving trucks in those 1980s science fiction classics, it is clear that they are much more practical and feasible that autonomous cars. So the first self-driven vehicles you see on the roads are more likely to have 16 wheels and not just four.
+
+(Disclaimer: The writer attended the Uber Media Summit in San Francisco on the invite of Uber)
+
+© The Indian Express Online Media Pvt Ltd 

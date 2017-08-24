@@ -1,0 +1,11 @@
+Both contains strike but LDA seprated both as different events of Protest and Missile strike
+------------------------------------------------------------------------------------------------
+
+
+"(129, '0.012*""police"" + 0.009*""student"" + 0.007*""strike"" + 0.007*""protester"" + 0.007*""will"" + 0.007*""woman"" + 0.006*""protest"" + 0.006*""minister"" + 0.006*""march"" + 0.005*""leader"" + 0.005*""order"" + 0.005*""last"" + 0.005*""day"" + 0.005*""also"" + 0.005*""president"" + 0.005*""india"" + 0.004*""said"" + 0.004*""held"" + 0.004*""r"" + 0.004*""new"" + 0.004*""house"" + 0.004*""across"" + 0.004*""city"" + 0.004*""february"" + 0.004*""country"" + 0.004*""demanding"" + 0.004*""national"" + 0.004*""part"" + 0.004*""year"" + 0.004*""village"" + 0.004*""take"" + 0.004*""said."" + 0.004*""action"" + 0.004*""group"" + 0.004*""right"" + 0.004*""chennai"" + 0.004*""member"" + 0.004*""meeting"" + 0.004*""body"" + 0.004*""many"" + 0.004*""told"" + 0.004*""near"" + 0.004*""since"" + 0.004*""hold"" + 0.004*""even"" + 0.003*""union"" + 0.003*""chief"" + 0.003*""demand"" + 0.003*""monday"" + 0.003*""three""')"
+
+
+"(0, '0.009*""israeli"" + 0.008*""fitting"" + 0.007*""israel"" + 0.006*""missile"" + 0.004*""decisive"" + 0.004*""anti-aircraft"" + 0.004*""valour"" + 0.004*""courage"" + 0.003*""karat"" + 0.003*""displayed"" + 0.003*""successfully"" + 0.003*""sovereignty,"" + 0.003*""system"" + 0.003*""airstrikes"" + 0.002*""exemplary"" + 0.002*""proud"" + 0.002*""gratitude"" + 0.002*""jordan"" + 0.002*""incursions,"" + 0.002*""missiles,"" + 0.002*""israeli-controlled"" + 0.002*""affected."" + 0.002*""impartial"" + 0.002*""independent"" + 0.002*""owe"" + 0.002*""valley"" + 0.002*""detain"" + 0.001*""29th"" + 0.001*""aircraft"" + 0.001*""prakash"" + 0.001*""jordan."" + 0.001*""launched"" + 0.001*""jewish"" + 0.001*""quarter"" + 0.001*""strikes."" + 0.001*""israeli-held"" + 0.001*""russian-made"" + 0.001*""iranian-made"" + 0.001*""mideast"" + 0.001*""errant"" + 0.001*""airspace"" + 0.001*""door,"" + 0.001*""jets."" + 0.001*""tactical"" + 0.001*""reprisal"" + 0.001*""lightly,"" + 0.001*""siren"" + 0.001*""1967"" + 0.001*""toward"" + 0.001*""needed,""')"
+
+
+

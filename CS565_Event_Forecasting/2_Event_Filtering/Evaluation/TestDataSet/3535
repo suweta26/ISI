@@ -1,0 +1,28 @@
+20170119 
+Soon, your heartbeat will be the access code to your health records 
+19-1-2017 
+Scientists encrypted patient data using a person’s unique electrocardiograph (ECG). ( Source: Thinkstock) Scientists encrypted patient data using a person’s unique electrocardiograph (ECG). ( Source: Thinkstock)
+
+A patient’s own heartbeat may be soon used as the password to access electronic health records, say scientists who have developed a low-cost technique to protect personal data.
+
+“The cost and complexity of traditional encryption solutions prevent them being directly applied to telemedicine or mobile healthcare,” said Zhanpeng Jin, assistant professor at Binghamton University in the US.
+
+“Those systems are gradually replacing clinic-centered healthcare, and we wanted to find a unique solution to protect sensitive personal health data with something simple, available and cost-effective,” Jin said.
+
+Traditional security measures – like cryptography or encryption – can be expensive, time-consuming, and computing-intensive.
+
+Scientists encrypted patient data using a person’s unique electrocardiograph (ECG) – a measurement of the electrical activity of the heart measured by a biosensor attached to the skin – as the key to lock and unlock the files.
+
+Also Read: New soft robot can keep your heart beating
+
+“The ECG signal is one of the most important and common physiological parameters collected and analyzed to understand a patient’s’ health,” said Jin.
+
+“While ECG signals are collected for clinical diagnosis and transmitted through networks to electronic health records, we strategically reused the ECG signals for the data encryption. Through this strategy, the security and privacy can be enhanced while minimum cost will be added,” he said.
+
+Essentially, the patient’s heartbeat is the password to access their electronic health records.The identification scheme is a combination of previous work by Jin using a person’s unique brainprint instead of traditional passwords for access to computers and buildings combined with cyber-security work from Guo and Chen.
+
+Also Read: In laboratories across India, scientists take heart from this little fish
+
+“This research will be very helpful and significant for next-generation secure, personalised healthcare,” said Jin.
+
+Since an ECG may change due to age, illness or injury – or a patient may just want to change how their records are accessed – researchers are currently working out ways to incorporate those variables. 

@@ -1,0 +1,22 @@
+20170316 
+Security flaw found in WhatsApp, Telegram: Researchers 
+16-3-2017 
+A flaw could let hackers break into WhatsApp or Telegram messaging accounts using the very encryption intended to protect messages. A flaw could let hackers break into WhatsApp or Telegram messaging accounts using the very encryption intended to protect messages.
+
+A computer security firm revealed a flaw that could let hackers break into WhatsApp or Telegram messaging accounts using the very encryption intended to protect messages. Check Point Software Technologies said that it alerted Telegram and Facebook-owned WhatsApp last week, waiting until the vulnerability was patched before making it public.
+
+Check Point did not specify how many messaging accounts were at risk, but did say the flaw posed a danger to “hundreds of millions” of users accessing the messaging platform from web browsers in computers, as opposed to mobile applications.
+
+“This new vulnerability put hundreds of millions of WhatsApp Web and Telegram Web users at risk of complete account take over,” Check Point head of product vulnerability Oded Vanunu said in a release.
+
+“By simply sending an innocent looking photo, an attacker could gain control over the account, access message history, all photos that were ever shared, and send messages on behalf of the user.”
+
+The vulnerability made it possible for an attacker to booby-trap a digital image with malicious code that could spring into action after the picture is clicked on for viewing, according to Check Point.
+
+The malicious code could then hijack an account, and even spread itself like a virus by sending infected messages to those listed as contacts. WhatsApp and Telegram use end to-end encryption designed to make certain only senders and recipients can see what is in messages.
+
+The privacy protection had the side effect of preventing the services from being able to discern whether message contents included malicious code, according to Check Point. To remedy the situation, both services shifted to finding and blocking viruses before messages are encrypted, the security researchers said.
+
+WhatsApp is one of the most popular instant messaging services in the world with more than a billion users. Telegram claims only 100 million or so users, but is often cited as a preferred communications tool of jihadists because of encryption to keep messages from the eyes of authorities.
+
+For all the latest Tech News, download Indian Express App now 

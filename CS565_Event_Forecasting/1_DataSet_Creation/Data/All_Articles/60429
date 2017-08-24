@@ -1,0 +1,26 @@
+20170309 
+Google’s Video Intelligence API can recognise objects in a video 
+9-3-2017 
+(Image credit Google) (Image credit Google)
+
+Machine learning and AI has been Google’s core strength, and this has reflected across its range of consumer products. The smart replies in Inbox, the ability of the Google Assistant to search for images from a particular keyword or phrase. Now Google wants to emphasis that its cloud platform is just as smart, and driven by Machine Learning tools that can be used by enterprise customers.
+
+At the ongoing Next conference in San Francisco, Google’s chief scientist for cloud and machine learning Dr Fei Fei Li, unveiled a new tool that could allow for computers to understand and decode a video, just how humans do; the new Video Intelligence API. Li, who is the head of AI lab at Stanford and currently on a sabbatical leave for her stint at Google, is credited with helping build ImageNet. ImageNet is one of the largest repositories for images, and is used for machine learning and training AI.
+
+In the current state of machine learning for images, computers are taught to learn or understand an object by constantly showing them pictures of the same object. For instance, in order for the computer to recognise the picture of a dog, the machine learning algorithm is shown a lot of pictures of dogs. In fact, Photos app by Google can recognise pictures of food, dogs, or even cats thanks to the advancements in machine learning, although this is still at a basic stage, and far from the kind of AI that scientists dreaming of creating.
+
+While training computers to understand images is something that Google has been good at, videos is another matter. In fact, according to Dr Li, it is the ‘dark matter’ of the digital universe, but it looks like Google has cracked how to decode some part of this. Essentially Google’s new Video Intelligent tool, which is for now in private beta, will able to identify the exact part of a video that a user wants to find.
+
+The tool, which Google wants to make available to enterprises, would allow for videos to be searchable and discoverable just like photos are currently on the Google Photos app. In its demo during the keynote address, Google showed how the tool could figure out exact labels; when asked to find beach or baseball from a series of videos the tool was able to locate exactly which clips had images of a beach/baseball and at what points.
+
+Essentially a user would search each shot, frame thanks to the tool, without relying manually, in order find the exact video footage.
+
+According to Google, the API can annotate videos stored in Google Cloud Storage, and label each of the objects. Labelling means it can figure out the daily objects or items inside the video. So even if your clips are named randomly, the tool will still let you search, for say footage of a beach, as Google showed in the demo.
+
+Google also says the tool can detect scene changes within the video, and can help organisations with media archiving and boost content discovery for video. This API relies on Google’s current vision recognition models, which are also driving video search in YouTube.
+
+Google also announced improvements to its Cloud Vision API which include expansion of meta data from the company’s knowledge graph. Essentially Google is bringing its successes in the consumer side of business, and offering them to enterprises, as it seeks to catch up with Amazon and Microsoft in the race for the cloud.
+
+Disclaimer: The correspondent is attending the Next conference in San Francisco at the invite of Google India, which is paying for travel and accommodation.
+
+© The Indian Express Online Media Pvt Ltd 

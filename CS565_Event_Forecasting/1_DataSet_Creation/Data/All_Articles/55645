@@ -1,0 +1,22 @@
+20170305 
+Scientists prove DNA is largest bio-hard drive, stores computer OS, short movie 
+5-3-2017 
+The researchers showed that their coding strategy packs 215 petabytes of data on a single gram of DNA. (Image for representation, Source: Thinkstock) The researchers showed that their coding strategy packs 215 petabytes of data on a single gram of DNA. (Image for representation, Source: Thinkstock)
+
+At a time when humans are generating more data than hard drives, scientists have demonstrated that a computer operating system and a short movie could be stored on a DNA.
+
+In a new study, published in journal Science, a pair of researchers at Columbia University and the New York Genome Center (NYGC) showed that an algorithm designed for streaming video on a cellphone can unlock DNA’s nearly full storage potential by squeezing more information into its four base nucleotides.
+
+Watch all our videos from Express Technology
+
+The researchers showed that their coding strategy packs 215 petabytes of data on a single gram of DNA, which study co-author Yaniv Erlich believe was the highest-density data-storage device ever created.
+
+According to the team, DNA is an ideal storage medium because it is ultra-compact and can last hundreds of thousands of years if kept in a cool, dry place. “DNA won’t degrade over time like cassette tapes and CDs, and it won’t become obsolete — if it does, we have bigger problems,” said Erlich.
+
+Erlich and his colleague Dina Zielinski stored six files into a DNA — a full computer operating system, an 1895 French film “Arrival of a train at La Ciotat”, a $50 Amazon gift card, a computer virus, a Pioneer plaque and a 1948 study by information theorist Claude Shannon.
+
+Also Read: Soon, ‘magic’ DNA computer that grows itself
+
+They compressed the files into a master file, and then split the data into short strings of binary code made up of ones and zeros.Using an erasure-correcting algorithm called fountain codes, they randomly packaged the strings into so-called droplets and mapped the ones and zeros in each droplet to the four nucleotide bases in DNA.
+
+They also demonstrated that a virtually unlimited number of copies of the files could be created with their coding technique by multiplying their DNA sample through polymerase chain reaction (PCR) and that those copies, and even copies of their copies, and so on, could be recovered error-free. 

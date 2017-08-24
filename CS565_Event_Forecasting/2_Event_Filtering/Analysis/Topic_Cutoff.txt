@@ -1,0 +1,40 @@
+topicnumber='86'
+higher_cutoff= .4
+lower_cutoff = .013
+28 Documents
+
+
+topicnumber='10'
+higher_cutoff= .7
+lower_cutoff = .046
+50 Documents
+
+
+# LDA topic id
+topicnumber='27'
+higher_cutoff= .6
+lower_cutoff = .018
+138 Documents
+
+
+# LDA topic id
+topicnumber='62'
+higher_cutoff= .5
+lower_cutoff = .11
+48 Documents
+
+
+
+topicnumber='88'
+higher_cutoff= .06
+lower_cutoff = .01
+104 Documents
+
+
+topicnumber='139'
+higher_cutoff= .7
+lower_cutoff = .165
+48 Documents
+
+
+

@@ -1,0 +1,22 @@
+20170308 
+Now, robots that ask intelligent questions when confused 
+8-3-2017 
+The algorithm developed by researchers at Brown University in the US enables a robot to quantify how certain it is about what a user wants. (Source: Youtube) The algorithm developed by researchers at Brown University in the US enables a robot to quantify how certain it is about what a user wants. (Source: Youtube)
+
+Scientists have developed an algorithm that enables robots to ask intelligent questions when they are confused to help them get better at fetching objects – an important task for future robot assistants.
+
+The algorithm developed by researchers at Brown University in the US enables a robot to quantify how certain it is about what a user wants.When its certainty is high, the robot will simply hand over the object as requested.
+
+Watch all our videos from Express Technology
+
+When it is not so certain, the robot makes its best guess about what the person wants, then asks for confirmation by hovering its gripper over the object and asking, “this one?” One of the important features of the system is that the robot does not ask questions with every interaction, it asks intelligently, researchers said. “Fetching objects is an important task that we want collaborative robots to be able to do,” said professor Stefanie Tellex from Brown University.
+
+“But it is easy for the robot to make errors, either by misunderstanding what we want, or by being in situations where commands are ambiguous. So what we wanted to do here was come up with a way for the robot to ask a question when it is not sure,” Tellex said. For example, say a user asks for a wrench and there are two wrenches on a table. If the user tells the robot that its first guess was wrong, the algorithm deduces that the other wrench must be the one that the user wants. It will then hand that one over without asking another question. Those kinds of inferences, known as implicatures, make the algorithm more efficient.
+
+“When the robot is certain, we do not want it to ask a question because it just takes up time,” said Eric Rosen, an undergraduate working in Tellex’s lab. “But when it is ambiguous, we want it to ask questions because mistakes can be more costly in terms of time,” said Rosen. To test their system, the researchers asked untrained participants to come into the lab and interact with Baxter, a popular industrial and research robot.
+
+Also Read: EU’s move to give robots legal status ‘to treat them like corporations’
+
+Participants asked Baxter for objects under different conditions. The team could set the robot to never ask questions, ask a question every time, or to ask questions only when uncertain.
+
+The trials showed that asking questions intelligently using the new algorithm was significantly better in terms of accuracy and speed compared to the other two conditions. The system worked so well, in fact, that participants thought the robot had capabilities it actually did not have, researchers said. 

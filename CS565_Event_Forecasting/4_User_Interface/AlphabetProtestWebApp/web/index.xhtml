@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <title>Team Alphabet - Planned Protest</title>
+    </head>
+    <body>
+        <h2 align="center" style="margin-top: 15px">Team Alphabet - Protest Locator</h2> 
+        <LABEL><font color="#FF0000">#{eventBean.error}</font></LABEL>
+        <div style="margin-top:30px;"  align="left">
+            <h:form>
+                <table>
+                    <tr>
+                        <td><font face="georgia">Enter date (dd-mm-yyyy):</font></td>
+                        <td> <h:inputText id="date" value="#{eventBean.date}" style="width: 150px">
+                             <f:convertDateTime pattern="dd-MM-yyyy"/>
+                        </h:inputText></td>
+                        <td><h:commandButton value="Get Events" action="#{eventBean.getEvents}"/></td>
+                    </tr>
+                </table>
+                
+            </h:form>
+            <hr/>
+            <LABEL><font color="#978B83">#{eventBean.eventCount} events found.</font></LABEL>
+            <br/>
+             <br/>
+             <h:form>
+                 <h:dataTable value="#{eventBean.results}" var="result">     
+                <h:column>
+                    <font color="#0000FF"><h:outputText value="#{result.eventTitle}" escape="false" /></font>&nbsp;     
+                    <br/> <b>Persons:</b> <h:outputText value="#{result.persons}" escape="false" />&nbsp; 
+                    <br/> <b>Organizations:</b> <h:outputText value="#{result.organizations}" escape="false" />&nbsp; 
+                    <br/> <b>Locations:</b> <h:outputText value="#{result.locations}" escape="false" />&nbsp; 
+                    <br/> <b>Date:</b> <h:outputText value="#{result.dates}" escape="false" />&nbsp;&nbsp;&nbsp; 
+                    <br/>
+                </h:column>
+                
+             </h:dataTable>
+                    <br/>
+                    <hr/>
+                
+                 
+             </h:form>
+        </div>
+    </body>
+</html>
+

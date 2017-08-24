@@ -1,0 +1,18 @@
+20170311 
+Smartphone PIN can be extracted from heat traces on device’s screen 
+11-3-2017 
+Thermal cameras allow performing thermal attacks, where heat traces, resulting from authentication, can be used to reconstruct passwords. (Image used for representation, Source: Pixabay) Thermal cameras allow performing thermal attacks, where heat traces, resulting from authentication, can be used to reconstruct passwords. (Image used for representation, Source: Pixabay)
+
+The heat traces left on the smartphone screen after typing the PIN or swiping a pattern could give away your secret code, warn researchers. All one needs to steal the code is a thermal-imaging camera as thermal images reveal what parts of the screen were tapped, even after it is left untouched for 30 seconds, The Atlantic reported.
+
+Watch all our videos from Express Technology
+
+At an upcoming conference on human-computer interactions to be held in the US in May, researchers from the University of Stuttgart and Ludwig Maximilian University of Munich in Germany will present in a new study how PINs or patterns can be extracted from the heat signature left on the user’s smartphone screen.
+
+“PINs and patterns remain among the most widely used knowledge-based authentication schemes. As thermal cameras become ubiquitous and affordable, we foresee a new form of threat to user privacy on mobile devices,” the researchers said.
+
+Thermal cameras allow performing thermal attacks, where heat traces, resulting from authentication, can be used to reconstruct passwords. The researchers said that while PINs remain vulnerable even with duplicate digits, overlapping patterns significantly decrease successful thermal attack rate.
+
+Also Read: Indian Android smartphone are at data theft risk: Experts
+
+If the thermal image is taken within 15 seconds of a PIN being entered, it is accurate nearly 90 percent of the time. At 30 seconds, it is about 80 per cent accurate. But at 45 seconds or more, the accuracy drops to 35 per cent and below, the report said. 

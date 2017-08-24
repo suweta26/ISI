@@ -1,0 +1,18 @@
+20170119 
+New ‘rainbow message’ bug causes iPhone to freeze temporarily 
+19-1-2017 
+According to the YouTuber, iOS tries to combine the three emojis to create a rainbow flag. However, it fails to compile them together, causing iPhone to freeze. (Screenshot: YouTube) According to the YouTuber, iOS tries to combine the three emojis to create a rainbow flag. However, it fails to compile them together, causing iPhone to freeze. (Screenshot: YouTube)
+
+A new bug on iMessage is causing iPhones running on iOS 10 and above to freeze. The message which comprises of a white flag, zero and rainbow emojis (in the same order) freezes iPhone for 30 seconds or more. EverythingApplePro posted a video on YouTube explaining how the bug works. He provided a link, clicking on which you can save the bug on iCloud and share it later via iMessage.
+
+According to the YouTuber, iOS tries to combine the three emojis to create a rainbow flag. However, it fails to compile them together, causing iPhone to freeze. The iPhone will freeze within seconds and power button or home button won’t work either. While the device will restore to normal in a few minutes, EverythingApplePro advises users to restart iPhone to make it work instantaneously. The bug can be sent via message on Android smartphones as well. However, it makes Android devices slower, instead of freezing them.
+
+“When your victim click on the message, their Messages app will attempt to load a large amount of data that causes the system malfunction. However the text in the file is very complicated for the system and causes a CPU average and freezing the app. If you close the app and try to reopen it, iOS will try to reload the previous message but can’t because it’s the same file containing too much text for the system to handle properly,” explains Vincedes3, who discovered the bug, in a blogpost.
+
+There are two methods by which this bug can be sent to iPhone. Method 1 affects devices running iOS 10.0 – 10.1.1, while the second one affects devices on iOS 10.0 – 10.2.1. In both the cases, the bug will crash the iPhone and freeze it for a few seconds. Copy pasting the infected message on other apps will make them crash instantaneously as well. Vincedes3 has provided a magical link, which he claims will make the bug go away, the restoring iMessage app to normal.
+
+Earlier Vincedes3 had posted a video on his channel demonstrating how a vcf attachment sent on iPhone running on iOS 8 to 10.2.1 makes iMessage crash on the iPhone. In a separate instance, a five-second video was shared by YouTube channel EverythingApplePro, and viewing it on Safari caused iOS to crash. However, the bug wasn’t limited to one iOS build.
+
+In May last year there was a bug which caused iPhones running iOS 8.3 to crash when a message containing a specific string of text was received. Apple had later issued a software fix for the bug.
+
+© The Indian Express Online Media Pvt Ltd 

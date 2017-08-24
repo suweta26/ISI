@@ -1,0 +1,34 @@
+20170309 
+Apple’s Siri learns Shanghainese as voice assistants race to cover languages 
+9-3-2017 
+Then Apple deploys “dictation mode,” its text-to-speech translator, in the new language. (Image for representation, Source: Reuters) Then Apple deploys “dictation mode,” its text-to-speech translator, in the new language. (Image for representation, Source: Reuters)
+
+With the broad release of Google Assistant last week, the voice-assistant wars are in full swing, with Apple Inc, Amazon.com Inc, Microsoft Corp and now Alphabet Inc’s Google all offering electronic assistants to take your commands.
+
+Siri is the oldest of the bunch, and researchers including Oren Etzioni, chief executive officer of the Allen Institute for Artificial Intelligence in Seattle, said Apple has squandered its lead when it comes to understanding speech and answering questions.
+
+Watch all our videos from Express Technology
+
+But there is at least one thing Siri can do that the other assistants cannot: speak 21 languages localized for 36 countries, a very important capability in a smartphone market where most sales are outside the United States.
+
+Microsoft Cortana, by contrast, has eight languages tailored for 13 countries. Google’s Assistant, which began in its Pixel phone but has moved to other Android devices, speaks four languages. Amazon’s Alexa features only English and German.Siri will even soon start to learn Shanghainese, a special dialect of Wu Chinese spoken only around Shanghai.
+
+The language issue shows the type of hurdle that digital assistants still need to clear if they are to become ubiquitous tools for operating smartphones and other devices. Speaking languages natively is complicated for any assistant. If someone asks for a football score in Britain, for example, even though the language is English, the assistant must know to say “two-nil” instead of “two-nothing.”
+
+Microsoft Cortana, by contrast, has eight languages tailored for 13 countries. (Image for representation, Source: Reuters) Microsoft Cortana, by contrast, has eight languages tailored for 13 countries. (Image for representation, Source: Reuters)
+
+At Microsoft, an editorial team of 29 people works to customize Cortana for local markets. In Mexico, for example, a published children’s book author writes Cortana’s lines to stand out from other Spanish-speaking countries.
+
+“They really pride themselves on what’s truly Mexican. (Cortana) has a lot of answers that are clever and funny and have to do with what it means to be Mexican,” said Jonathan Foster, who heads the team of writers at Microsoft.Google and Amazon said they plan to bring more languages to their assistants but declined to comment further.
+
+t.Google and Amazon said they plan to bring more languages to their assistants but declined to comment further. (Source: Press photo) t.Google and Amazon said they plan to bring more languages to their assistants but declined to comment further. (Source: Press photo)
+
+At Apple, the company starts working on a new language by bringing in humans to read passages in a range of accents and dialects, which are then transcribed by hand so the computer has an exact representation of the spoken text to learn from, said Alex Acero, head of the speech team at Apple. Apple also captures a range of sounds in a variety of voices. From there, a language model is built that tries to predict words sequences.
+
+Then Apple deploys “dictation mode,” its text-to-speech translator, in the new language, Acero said. When customers use dictation mode, Apple captures a small percentage of the audio recordings and makes them anonymous. The recordings, complete with background noise and mumbled words, are transcribed by humans, a process that helps cut the speech recognition error rate in half.
+
+Also Read:Google Assistant now rolling out to Android Nougat, Marshmallow phones
+
+After enough data has been gathered and a voice actor has been recorded to play Siri in a new language, Siri is released with answers to what Apple estimates will be the most common questions, Acero said. Once released, Siri learns more about what real-world users ask and is updated every two weeks with more tweaks. But script-writing does not scale, said Charles Jolley, creator of an intelligent assistant named Ozlo. “You can’t hire enough writers to come up with the system you’d need in every language. You have to synthesize the answers,” he said. That is years off, he said.
+
+The founders of Viv, a startup founded by Siri’s original creators that Samsung acquired last year, is working on just that. “Viv was built to specifically address the scaling issue for intelligent assistants,” said Dag Kittlaus, the CEO and co-founder of Viv. “The only way to leapfrog today’s limited functionality versions is to open the system up and let the world teach them.” 
